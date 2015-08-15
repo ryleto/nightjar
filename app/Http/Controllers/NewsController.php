@@ -11,7 +11,7 @@ class NewsController extends BaseController {
 
     public function item($id)
 	{
-        // Get all the blog posts
+        // Get all articles
         $news = News::find($id);
 
         return view('site.news.view_news',compact('news'));
