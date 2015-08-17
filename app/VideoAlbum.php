@@ -27,7 +27,7 @@ class VideoAlbum extends Model {
 	}
 
 	/**
-	 * Get the galllery's videos.
+	 * Get the gallery videos.
 	 *
 	 * @return array
 	 */
