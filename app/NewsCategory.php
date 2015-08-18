@@ -9,7 +9,7 @@ class NewsCategory extends Model {
 
 	/**
 	 * Returns a formatted post content entry,
-	 * this ensures that line breaks are returned.
+	 * this ensures that line breaks are returned again.
 	 *
 	 * @return string
 	 */
